@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Attendance System</string>
+    <string name="btn_recognize_text">Who is This?</string>
+    <string name="result_no_hero_found">Ops Unable to recognise </string>
+    <string name="result_confident_hero_found">This is surely %1$s.</string>
+    <string name="result_think_hero_found">I think I see %1$s.</string>
+    <string name="result_maybe_hero_found">Hmm, is this %1$s?</string>
+    <string name="title_activity_display_data_activity">display_data_activity</string>
+    <string name="title_activity_display_data">display_data</string>
+</resources>
